@@ -1,0 +1,21 @@
+body ul {
+    list-style: none;
+}
+
+body ul li {
+    width: 30%;
+    float: left;
+}
+
+.clear {
+    float: clear;
+}
+
+#cb {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 150px;
+    height: 100px;
+    border: 1px solid black;
+}
